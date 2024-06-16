@@ -1,0 +1,7 @@
+python-decouple
+SQLAlchemy
+uvicorn
+fastapi
+asyncpg
+pytest
+pytest-asyncio
