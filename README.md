@@ -17,8 +17,8 @@ This guide provides step-by-step instructions to deploy the Rate Calculator Fast
 Clone the Rate Calculator repository from your version control system (e.g., GitHub).
 
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/alwayskrrish/xeneta_assignment.git
+cd xeneta_assignment
 ```
 
 ### 2. Set Up Environment Variables
